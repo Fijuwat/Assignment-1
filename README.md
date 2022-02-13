@@ -8,4 +8,4 @@ The license of your data and any source data: I use the MIT license and no speci
 A data type and description for each attribute in your data School:
 <class 'str'> In person class preference (Yes or No) <class 'str'> How do you like school so far (1-5) <class 'numpy.int64'> Response date <class 'str'> How do you like your professors so far (1-5) <class 'numpy.int64'>
 
-Any known issues or potential issues, such as sources of bias in collection: The "Steps" programs can run perfectly, but some of the practice steps can't, just ignore it I left them there as my notes.
+Any known issues or potential issues, such as sources of bias in collection: The "Steps" programs can run perfectly, but some of the practice steps can't, just ignore it I left them there as my notes. The data might also have biased since most of the data are responded by the freshmen from different schools.
